@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\bin\Debug\ThucTapCoSo-62139022.exe.config
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\bin\Debug\ThucTapCoSo-62139022.exe
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\bin\Debug\ThucTapCoSo-62139022.pdb
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\obj\Debug\ThucTapCoSo-62139022.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\obj\Debug\ThucTapCoSo-62139022.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\obj\Debug\ThucTapCoSo_62139022.FormMain.resources
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\obj\Debug\ThucTapCoSo_62139022.Properties.Resources.resources
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\obj\Debug\ThucTapCoSo_62139022.SelectionSort.resources
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\obj\Debug\ThucTapCoSo-62139022.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\obj\Debug\ThucTapCoSo-62139022.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\obj\Debug\ThucTapCoSo-62139022.exe
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\obj\Debug\ThucTapCoSo-62139022.pdb
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\obj\Debug\ThucTapCoSo_62139022.BubbleSort.resources
+C:\Users\DELL\source\repos\ThucTapCoSo-62139022\ThucTapCoSo-62139022\obj\Debug\ThucTapCoSo_62139022.InterchangeSort.resources
